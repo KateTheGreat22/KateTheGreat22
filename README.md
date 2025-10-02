@@ -1,5 +1,8 @@
 Hello, GitHub! 👋
 
+![Happy Headshot](https://github.com/user-attachments/assets/07df5506-248b-451d-aded-a4856ed709d7)
+
+
 My name is Kaitlyn Johnson, a student at Brigham Young University-Idaho interested in technical writing, back-end developement, and sofftware management.
 Welcome to my GitHub profile!
 
