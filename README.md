@@ -20,5 +20,7 @@ Welcome to my GitHub profile!
 ## Let's Connect!
 
 - Here is my [LinkedIn] https://www.linkedin.com/in/kaitlyn-johnson-930433339/
+- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?/KateTheGreat22/KateTheGreat22&show_icons=true&theme=radical)
+
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
