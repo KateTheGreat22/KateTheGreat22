@@ -16,6 +16,7 @@ Welcome to my GitHub profile!
 
 - Proficient in: Python, JavaScript, C#, Erlang, and HTML
 - Skills: Microsoft Office, Excel, and Adobe Creative Cloud
+- Projects: Complied homework tasks into manageable amounts and distributed the information, created and managed a website by scratch, and wrote autonomous robotics code
 
 ## Let's Connect!
 
