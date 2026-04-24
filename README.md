@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 ## About Me
 
 - I'm currently in my senior year at BYUI studying English and Computer Science.
-- My goals are to become a rhetoric or literature teacher and help other students to cross academic domains
+- My goals are to become a rhetoric or literature teacher and help other students to cross academic domains.
 - Ask me about my transfer journey to a university, my time as a librarian, or my favorite coding style!
 
 ## Technologies and Tools
